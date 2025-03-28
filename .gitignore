@@ -9,6 +9,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+CW-2-s30520/.idea
+CW-2-s30520/.obj
+CW-2-s30520/.bin
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
